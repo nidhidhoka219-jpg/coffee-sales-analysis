@@ -6,20 +6,32 @@ This project analyzes a coffee shop's sales data to understand customer purchasi
 # Dataset
 Dataset name: coffee.csv
 The dataset contains transaction level data of coffee sales with the following columns:
+
 *date - Transaction date
+
 *datetime - Exact timestamp of the transaction
+
 *cash_type - Payment method type
+
 *card - Card transaction information
+
 *money - Amount paid by the customer
+
 *coffee_name - Type of coffee purchased
 
 # Tools used 
 *Python
+
 *Pandas
+
 *Numpy
+
 *Matplotlib
+
 *Seaborn
+
 *Scikit-learn
+
 *Power BI
 
 # Data analysis steps
@@ -68,7 +80,7 @@ The dashboard allows easy interpretation of sales patterns and customer preferen
   Action: Use this as baseline for month-over-month targets and inventory planning.
   
 * Average Order Value (AOV): 33.11
-  Why it matters: Customers spend ~33 per order on average — indicates upsell potential.
+  Why it matters: Customers spend ~33 per order on average which indicates upsell potential.
   Action: Introduce combos, premium add-ons, and size-up promotions to increase AOV by 5–10%.
 
 * Revenue growth: 22.6% (vs prior period).
