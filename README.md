@@ -76,9 +76,8 @@ The dashboard allows easy interpretation of sales patterns and customer preferen
 * Latte contributes the highest revenue among all coffee types.
 
 * Total revenue: 37.51K.
-
-* Why it matters: Shows overall scale of sales during the period.
-* Action: Use this as baseline for month-over-month targets and inventory planning.
+Why it matters: Shows overall scale of sales during the period.
+Action: Use this as baseline for month-over-month targets and inventory planning.
   
 * Average Order Value (AOV): 33.11
   Why it matters: Customers spend ~33 per order on average which indicates upsell potential.
