@@ -36,7 +36,7 @@ The dataset contains transaction level data of coffee sales with the following c
 
 # Data analysis steps
 1. Data Loading
-   *Imported the dataset using Pandas.
+   * Imported the dataset using Pandas.
 2. Data Cleaning
    * Handled missing values.
    * Removed duplicate records.
@@ -75,7 +75,7 @@ The dashboard allows easy interpretation of sales patterns and customer preferen
 # Key Business Insights
 * Latte contributes the highest revenue among all coffee types.
 
-* Total revenue: 37.51K.
+* Total revenue: 37.51K
   - Why it matters: Shows overall scale of sales during the period.
   - Action: Use this as baseline for month-over-month targets and inventory planning.
   
@@ -83,11 +83,11 @@ The dashboard allows easy interpretation of sales patterns and customer preferen
    - Why it matters: Customers spend ~33 per order on average which indicates upsell potential.
    - Action: Introduce combos, premium add-ons, and size-up promotions to increase AOV by 5–10%.
 
-* Revenue growth: 22.6% (vs prior period).
+* Revenue growth: 22.6% (vs prior period)
    - Why it matters: Healthy growth — confirm whether driven by volume, price or product mix.
    - Action: Attribute growth to promotions or top products and scale the most effective tactics.
 
-* Revenue distribution by day: Relatively consistent daily revenue with minor peaks on weekends.
+* Revenue distribution by day: Relatively consistent daily revenue with minor peaks on weekends
    - Why it matters: Predictable weekly pattern for staffing and inventory.
    - Action: Increase staff and inventory on weekend peaks; run weekday promotions to smooth demand.
 
@@ -95,11 +95,11 @@ The dashboard allows easy interpretation of sales patterns and customer preferen
    - Why it matters: Operational pressure concentrated in short windows.
    - Action: Schedule more staff/prepare faster service during peaks; offer off-peak incentives.
 
-* Payment behavior: One payment method dominates (cash/card), with digital payments growing.
+* Payment behavior: One payment method dominates (cash/card), with digital payments growing
    - Why it matters: Affects checkout speed, fees and customer convenience.
    - Action: Ensure fast POS options, consider digital-payment promos, and monitor payment fees.
 
-* Operational efficiency (heatmap): The hour × day heatmap highlights specific slots with highest demand (use for staffing).
+* Operational efficiency (heatmap): The hour × day heatmap highlights specific slots with highest demand (use for staffing)
    - Why it matters: Direct lever to reduce wait times and improve satisfaction.
    - Action: Create a staff rota optimized to heatmap bands and measure average serve time.
 
