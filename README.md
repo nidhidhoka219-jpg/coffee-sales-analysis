@@ -7,32 +7,32 @@ This project analyzes a coffee shop's sales data to understand customer purchasi
 Dataset name: coffee.csv
 The dataset contains transaction level data of coffee sales with the following columns:
 
-*date - Transaction date
+- date - Transaction date
 
-*datetime - Exact timestamp of the transaction
+- datetime - Exact timestamp of the transaction
 
-*cash_type - Payment method type
+- cash_type - Payment method type
 
-*card - Card transaction information
+- card - Card transaction information
 
-*money - Amount paid by the customer
+- money - Amount paid by the customer
 
-*coffee_name - Type of coffee purchased
+- coffee_name - Type of coffee purchased
 
 # Tools used 
-*Python
+- Python
 
-*Pandas
+- Pandas
 
-*Numpy
+- Numpy
 
-*Matplotlib
+- Matplotlib
 
-*Seaborn
+- Seaborn
 
-*Scikit-learn
+- Scikit-learn
 
-*Power BI
+- Power BI
 
 # Data analysis steps
 1. Data Loading
@@ -108,3 +108,5 @@ The analysis provides insights into customer preferences and revenue drivers wit
 
 # Author
 Nidhi D
+Aspiring Data Analyst
+LinkedIn: https://www.linkedin.com/in/nidhi-dhoka-701743379
